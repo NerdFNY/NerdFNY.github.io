@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 15th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+Lastest Update: 23th Oct 2023
 
 ## Preprint
 - A Cross-Scale Hierarchical Transformer with Correspondence-Augmented Attention for Inferring Bird’s-Eye-View Semantic Segmentation. <br>**Naiyu Fang**, Lemiao Qiu*, Shuyou Zhang, Zili Wang, Kerui Hu, Kang Wang <br>arXiv:2304.03650, 2023 [[pdf]](https://arxiv.org/pdf/2304.03650.pdf)
