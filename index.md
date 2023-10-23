@@ -31,9 +31,9 @@ I will graduate at June 2024. Now, I'm looking for a postdoc position. My email 
 - Autonomous Driving
 - Virtual Try-on
 
-**Visual-only autonomous driving upstream tasks:** It centered on the precision and efficiency issues in camera image-based perception of surrounding scenes. I have conducted the semantic segmentation task of vehicle and road on bird’s-eye view plane, and an efficiency-oriented cue fusion task for multi-frame monocular depth estimation.
+**-Visual-only autonomous driving upstream tasks:** It centered on the precision and efficiency issues in camera image-based perception of surrounding scenes. I have conducted the semantic segmentation task of vehicle and road on bird’s-eye view plane, and an efficiency-oriented cue fusion task for multi-frame monocular depth estimation.
 
-**Image-based virtual try-on visual tasks:**  It revolved around visual realism and representation form issues. I have proposed a progressive pipeline of virtual try-on, a learning paradigm of garment transfer through cross-task knowledge
+**-Image-based virtual try-on visual tasks:**  It revolved around visual realism and representation form issues. I have proposed a progressive pipeline of virtual try-on, a learning paradigm of garment transfer through cross-task knowledge
 distillation, an unsupervised synthesis method of garment images, and an image sequence inference method via pose interpolation.
 
 <br>

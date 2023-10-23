@@ -7,7 +7,7 @@ description: Two roads diverged in woods, I took the one less traveled by.
 # Owner/author information
 owner:
   name: Naiyu Fang
-  avatar: blogs/web.assets/naiyufang_left.jpg
+  avatar: naiyufang_left.jpg
  # bio:
   email: FangNaiyu@zju.edu.cn
   cv: file/CV.pdf
@@ -77,4 +77,4 @@ disqus:
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
-# Latest update in 2023/10/15 by Hanlin Cai.
+# Latest update in 2023/10/23 by Naiyu Fang.
