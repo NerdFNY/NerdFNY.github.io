@@ -10,7 +10,7 @@ owner:
   avatar: naiyufang.png
  # bio:
   email: FangNaiyu@zju.edu.cn
-  cv: https://caihanlin.com/file/CV.pdf
+  cv: https://github.com/NerdFNY/NerdFNY.github.io/blob/main/file/CV.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   scholar: https://scholar.google.com/citations?hl=zh-CN&user=3b7aFBIAAAAJ&view_op=list_works&sortby=pubdate
   github: NerdFNY
@@ -42,7 +42,7 @@ links:
     url: /hobbies/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Hangzhou
+timezone: China/Beijing
 future: true
 highlighter: rouge
 # markdown: kramdown
