@@ -17,9 +17,9 @@ Lastest Update: 23th Oct 2023
 
 ## Honors
 
-- Oct 2023：**Awarded of Honor for Graduate**<br>
-- Oct 2022：**Awarded of Honor for Graduate**<br>
-- Oct 2022：**Graduate of Merit A Graduate**<br>
-- Jun 2019：**Outstanding Graduate of Dalian**<br>
-- Jun 2019：**Outstanding Graduate of Dalian University of Technology**<br>
-- Jun 2019：**Outstanding Dissertation of Dalian University of Technology**<br>
+- Oct 2023: **Awarded of Honor for Graduate**<br>
+- Oct 2022: **Awarded of Honor for Graduate**<br>
+- Oct 2022: **Graduate of Merit A Graduate**<br>
+- Jun 2019: **Outstanding Graduate of Dalian**<br>
+- Jun 2019: **Outstanding Graduate of Dalian University of Technology**<br>
+- Jun 2019: **Outstanding Dissertation of Dalian University of Technology**<br>
