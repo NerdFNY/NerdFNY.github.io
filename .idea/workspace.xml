@@ -6,31 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f920e74b-b2c1-48b2-9d1a-c9834de4255b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/web.assets/IMG_1138.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/web.assets/github-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/web.assets/image-20230427100805390.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/web.assets/image-20230427101010881.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/web.assets/image-20230427101317954.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/web.assets/image-20230427104320952.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/web.assets/image-20230427104405873.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/web.assets/image-20230427104831706.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/web.assets/image-20230427110918118.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/web.assets/image-20230427120849054.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/web.assets/jekyll-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/caihanlin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cat.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fav.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fav.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/hanlin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/naiyufang.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/naiyufang.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/prelection1.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/speech1.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/speech3.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/surfing1.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/swimming.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/swimming2.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/publications.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
