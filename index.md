@@ -6,6 +6,8 @@ layout: page
 
 <img src="blogs/web.assets/naiyufang_main.jpg" class="floatpic" width="360" height="560">
 
+<br>
+
 Here is **Naiyu Fang (房乃玉)**.
 
 
