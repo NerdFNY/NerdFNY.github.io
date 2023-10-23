@@ -9,21 +9,17 @@ layout: page
 Here is **Naiyu Fang (房乃玉)**.
 
 
+I am a fifth-year PhD student majoring in Mechanical Engineering at [Zhejiang University](https://www.zju.edu.cn/english/), under the supervision of [Prof. Shuyou Zhang](https://person.zju.edu.cn/en/0092066) and [Prof. Lemiao Qiu](https://person.zju.edu.cn/en/english_my_freetown). Our research Group is affiliated to [the State Key Laboratory of Fluid Power & Mechatronic Systems](http://sklofp.zju.edu.cn/sklen/) and [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn/english.html). My reserach interest focuses on Computer Vision, Autonomous Driving, and Virtual Try-on.
 
-I am a senior student majoring in **EECS** at Fuzhou University and Maynooth University (Ireland, combined degrees). Currently, I work as a research assistant in the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). I also spent a lovely summer interning with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University.
-
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+I will graduate at June 2024. Now, I'm looking for a postdoc position.
 
 <br>
 
-## Academic Background
+## Education Experience
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
-
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - June 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Exchange)
-- Expect to apply for a one-year Mphil program and graduate in July 2025. Looking for PhD position after that.
+- **Sep 2019 - Present:** PhD candidate in Mechanical Engineering, [Zhejiang University](https://www.zju.edu.cn/english/)
+- **Sep 2015 - June 2019:** B.Eng. in Mechanical Engineering, [Dalian University of Technology](https://en.dlut.edu.cn/)
+- **Sep 2012 - June 2015:** General Senior High School, Zhucheng No. 1 Middle School.
 
 <br>
 
@@ -31,11 +27,14 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Interests
 
-- Industrial IoT System
-- Network Cybersecurity
-- Applied Machine Learning
+- Computer Vision
+- Autonomous Driving
+- Virtual Try-on
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+**Visual-only autonomous driving upstream tasks:** It centered on the precision and efficiency issues in camera image-based perception of surrounding scenes. I have conducted the semantic segmentation task of vehicle and road on bird’s-eye view plane, and an efficiency-oriented cue fusion task for multi-frame monocular depth estimation.
+
+**Image-based virtual try-on visual tasks:**  It revolved around visual realism and representation form issues. I have proposed a progressive pipeline of virtual try-on, a learning paradigm of garment transfer through cross-task knowledge
+distillation, an unsupervised synthesis method of garment images, and an image sequence inference method via pose interpolation.
 
 <br>
 
