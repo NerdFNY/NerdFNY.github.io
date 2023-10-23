@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="blogs/web.assets/naiyufang.jpg" class="floatpic" width="360" height="480">
+<img src="blogs/web.assets/naiyufang_main.jpg" class="floatpic" width="360" height="560">
 
 Here is **Naiyu Fang (房乃玉)**.
 
