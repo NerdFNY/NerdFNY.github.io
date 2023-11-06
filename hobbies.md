@@ -27,28 +27,12 @@ This is my way of perceiving the beauty in this world
 
 ---
 #### · Wuyue - ZJU Theater
-<figure class="half">
-<img src="../blogs/web.assets/Wuyue/01.jpg"  width="350" height="235"> 
-<img src="../blogs/web.assets/Wuyue/02.jpg"  width="350" height="235"> 
-</figure>
-
-<figure class="half">
-<img src="../blogs/web.assets/Wuyue/03.jpg"  width="350" height="235"> 
-<img src="../blogs/web.assets/Wuyue/04.jpg"  width="350" height="235"> 
-</figure>
-
+<img src="../blogs/web.assets/Wuyue/05.jpg"  width="700" > 
 
 ---
 #### · Manjuelong - Late Autumn
-<figure class="half">
-<img src="../blogs/web.assets/Manjuelong/01.jpg"  width="350" height="235"> 
-<img src="../blogs/web.assets/Manjuelong/02.jpg"  width="350" height="235"> 
-</figure>
 
-<figure class="half">
-<img src="../blogs/web.assets/Manjuelong/03.jpg"  width="350" height="235"> 
-<img src="../blogs/web.assets/Manjuelong/04.jpg"  width="350" height="235"> 
-</figure>
+<img src="../blogs/web.assets/Manjuelong/05.jpg"  width="700"> 
 
 ---
 
