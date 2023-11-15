@@ -10,7 +10,6 @@ layout: page
 
   Here is **Naiyu Fang (房乃玉)**. 
 - I was born in 1996 in Weifang, Shandong Province.
-
 - I am a fifth-year PhD student majoring in Mechanical Engineering at [Zhejiang University](https://www.zju.edu.cn/english/), under the supervision of [Prof. Shuyou Zhang](https://person.zju.edu.cn/en/0092066) and [Prof. Lemiao Qiu](https://person.zju.edu.cn/en/english_my_freetown). Our research Group is affiliated to [the State Key Laboratory of Fluid Power & Mechatronic Systems](http://sklofp.zju.edu.cn/sklen/) and [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn/english.html).
 
 - My reserach interest focuses on __Computer Vision__, __Autonomous Driving__, and __Virtual Try-on__.  
