@@ -29,7 +29,7 @@ This is my way of perceiving the beauty in this world
 
 ## Table Tennis
 
--Table tennis games are held regularly every Friday night. I am very lucky to have met these guys.
+-Table tennis games are held regularly every Friday night. I am very lucky to have met these interesting guys.
 
 ---
 <img src="../blogs/web.assets/Table_Tennis/01.jpg"  width="700"> 
