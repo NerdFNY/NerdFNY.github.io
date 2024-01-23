@@ -33,3 +33,8 @@ This is my way of perceiving the beauty in this world
 
 ---
 <img src="../blogs/web.assets/Table_Tennis/01.jpg"  width="700"> 
+
+## Badminton
+
+---
+Coming soon
