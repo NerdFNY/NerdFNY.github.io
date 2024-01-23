@@ -27,5 +27,5 @@ Lastest Update: 23th Jan 2024
 - Toward Multi-Category Garments Virtual Try-on Method by Coarse to Fine TPS Deformation. <br>**Naiyu Fang**, Lemiao Qiu*, Shuyou Zhang, Zili Wang, Kerui Hu, Heng Li <br> Neural Computing and Applications, 2022 [[pdf]](https://link.springer.com/article/10.1007/s00521-022-07173-w)
 - The Rapid Construction Method of Human Body Model for Virtual Try-on on Mobile Terminal based on MDD-Net. <br>**Naiyu Fang**, Lemiao Qiu*, Shuyou Zhang, Zili Wang, Ye Gu, Kerui Hu <br> Soft Computing, 2022 [[pdf]](https://link.springer.com/article/10.1007/s00500-022-07464-3)
 
-# 2020
+## 2020
 - Design and Tests of a Non-Contact Bernoulli Gripper for Rough-Surfaced and Fragile Objects Gripping. <br> Dong Liu, Minghao Wang, **Naiyu Fang**, Ming Cong*, Yu Du <br> Assembly Automation, 2020 [[pdf]](https://link.springer.com/article/10.1007/s00500-022-07464-3)

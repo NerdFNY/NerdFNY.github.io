@@ -10,32 +10,25 @@ This is my way of perceiving the beauty in this world
 
 
 ---
-#### · The Light and Shadow at Night - Zijingang Campus
-
-<figure class="half">
-<img src="../blogs/web.assets/ZJG_Night/001.jpg" width="350"  height="235">
-<img src="../blogs/web.assets/ZJG_Night/002.jpg" width="350"  height="235"> 
-
-</figure>
+#### · Wuyue - ZJU Theater
+<img src="../blogs/web.assets/Wuyue/06.jpg"  width="700" > 
 
 ---
 #### · Motorbike - QingShan Lake
-<figure class="half">
-<img src="../blogs/web.assets/QingShan_Lake/001.jpg"  width="235"> 
-<img src="../blogs/web.assets/QingShan_Lake/003.jpg"  width="235"> 
-</figure>
+<img src="../blogs/web.assets/QingShan_Lake/004.jpg"  width="700" > 
 
----
-#### · Wuyue - ZJU Theater
-<img src="../blogs/web.assets/Wuyue/05.jpg"  width="700" > 
-
----
+--- 
 #### · Manjuelong - Late Autumn
-
-<img src="../blogs/web.assets/Manjuelong/05.jpg"  width="700"> 
+<img src="../blogs/web.assets/Manjuelong/06.jpg"  width="700"> 
 
 ---
+#### · Pallet - Taiziwan Park
+<img src="../blogs/web.assets/Taiziwan_Park/01.jpg"  width="700"> 
+
+
 
 ## Table Tennis
 
-- Coming soon
+-Table tennis games are held regularly every Friday night. I am very lucky to have met these guys.
+
+<img src="../blogs/web.assets/Table_Tennis/01.jpg"  width="700"> 
