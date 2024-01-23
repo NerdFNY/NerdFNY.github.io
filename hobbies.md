@@ -31,4 +31,5 @@ This is my way of perceiving the beauty in this world
 
 -Table tennis games are held regularly every Friday night. I am very lucky to have met these guys.
 
+---
 <img src="../blogs/web.assets/Table_Tennis/01.jpg"  width="700"> 
