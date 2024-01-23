@@ -45,7 +45,9 @@ distillation, an unsupervised synthesis method of garment images, and an image s
 ---
 
 ## News and Updates
-
+- **Jan 2024:** One paper is accpeted to RAL.
+- **Jan 2024:** One paper is accpeted to TMM.
+- **Dec 2023:** One paper is accpeted to TITS.
 - **Oct 2023:** Happy to be awarded the National Scholarship.
 - **Dec 2022:** One paper is accpeted to PR.
 - **Sep 2022:** One paper is accpeted to TMM.
