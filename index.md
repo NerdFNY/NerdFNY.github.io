@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="blogs/web.assets/naiyufang_nikon.jpg" class="floatpic" width="400" height="420">
+<img src="blogs/web.assets/naiyufang_red.jpg" class="floatpic" width="400" height="">
 
 <br>
 
