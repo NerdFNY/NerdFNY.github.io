@@ -45,6 +45,7 @@ distillation, an unsupervised synthesis method of garment images, and an image s
 ---
 
 ## News and Updates
+- **Feb 2024:** Recommended as Outstanding Graduates of Zhejiang Province.
 - **Jan 2024:** One paper is accpeted to RAL.
 - **Jan 2024:** One paper is accpeted to TMM.
 - **Dec 2023:** One paper is accpeted to TITS.

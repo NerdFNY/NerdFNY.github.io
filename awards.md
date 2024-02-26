@@ -4,7 +4,7 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-Lastest Update: 24th Jan 2024 
+Lastest Update: 26th Feb 2024 
 
 ## Scholarships
 
@@ -17,6 +17,8 @@ Lastest Update: 24th Jan 2024
 
 ## Honors
 
+- Feb 2024: **Outstanding Graduates of Zhejiang Province (in recommend status)**<br>
+- Feb 2024: **Outstanding Graduates of Zhejiang University (in recommend status)**<br>
 - Oct 2023: **Outstanding Graduate Student of Zhejiang University**<br>
 - Oct 2022: **Outstanding Graduate Student of Zhejiang University**<br>
 - Oct 2022: **Graduate Student of Merit of Zhejiang University**<br>
