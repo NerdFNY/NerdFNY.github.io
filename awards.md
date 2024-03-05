@@ -4,10 +4,10 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-Lastest Update: 26th Feb 2024 
+Lastest Update: 05th Mar 2024 
 
 ## Scholarships
-
+- Mar 2024: Awarded for **Graduate Scholarship**<br>
 - Oct 2023: Awarded for **the National Scholarship** (Greatest Honor for Chinese PhD Student) <br>
 - Dec 2022: Awarded for **Lu Zengqi FPTC High-Technology of Distinguished Doctorates Scholarship** <br>
 - Oct 2022: Awarded for **Cen Kefa First-Class Scholarship** (Top 2.5%)<br>
