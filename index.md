@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="blogs/web.assets/naiyufang_zju.jpg" class="floatpic" width="380" height="">
+<img src="blogs/web.assets/naiyufang_zju2.jpg" class="floatpic" width="380" height="">
 
 <br>
 
@@ -18,7 +18,7 @@ layout: page
 
 <br>
 
-# Work Experience
+## Work Experience
 - **Aug 2024 - Present:** Postdoc, [Nanyang Technological University](https://www.ntu.edu.sg/)
 
 ## Education Experience
