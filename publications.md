@@ -7,8 +7,8 @@ title: Publications
 Lastest Update: 29th May 2025
 
 ## 2025
-- OccLE: Label-Efficient 3D Semantic Occupancy Prediction. <br>**Naiyu Fang**, Zheyuan Zhou, Fayao Liu, Xulei Yang, Jiacheng Wei, Lemiao Qiu, Guosheng Lin <br> arxiv, 2025 [[pdf]](https://arxiv.org/abs/2505.20617)
-- DSOcc: Leveraging Depth Awareness and Semantic Aid to Boost Camera-Based 3D Semantic Occupancy Prediction. <br>**Naiyu Fang**, Zheyuan Zhou, Kang Wang, Ruibo Li, Lemiao Qiu, Shuyou Zhang, Zhe Wang, Guosheng Lin <br> arxiv, 2025 [[pdf]](https://arxiv.org/abs/2505.20951)
+- OccLE: Label-Efficient 3D Semantic Occupancy Prediction. <br>**Naiyu Fang**, Zheyuan Zhou, Fayao Liu, Xulei Yang, Jiacheng Wei, Lemiao Qiu, Guosheng Lin* <br> arxiv, 2025 [[pdf]](https://arxiv.org/abs/2505.20617)
+- DSOcc: Leveraging Depth Awareness and Semantic Aid to Boost Camera-Based 3D Semantic Occupancy Prediction. <br>**Naiyu Fang**, Zheyuan Zhou, Kang Wang, Ruibo Li, Lemiao Qiu, Shuyou Zhang, Zhe Wang, Guosheng* Lin <br> arxiv, 2025 [[pdf]](https://arxiv.org/abs/2505.20951)
 
 ## 2024
 - A Cross-Scale Hierarchical Transformer with Correspondence-Augmented Attention for Inferring Bird’s-Eye-View Semantic Segmentation. <br>**Naiyu Fang**, Lemiao Qiu*, Shuyou Zhang, Zili Wang, Kerui Hu, Kang Wang <br>IEEE Transactions on Intelligent Transportation Systems, 2024 [[pdf]](https://ieeexplore.ieee.org/abstract/document/10401013)

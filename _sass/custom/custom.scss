@@ -10,3 +10,14 @@
     padding-right: 2rem;
   }
 }
+/* 针对所有 layout: page 的页面 */
+body.page #main {
+  max-width: 1200px;  /* 原本可能800px，改成1200px */
+  margin: 0 auto;     /* 页面居中 */
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+body.page .article-wrap {
+  max-width: 100%;    /* 内容撑满父容器宽度 */
+}
