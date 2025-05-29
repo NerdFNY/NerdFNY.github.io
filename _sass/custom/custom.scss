@@ -1,0 +1,12 @@
+// _sass/custom/custom.scss
+// 修改最大内容宽度
+.page {
+  max-width: 1200px; // 默认是大约 800px，可根据需要调整
+}
+
+@media (min-width: 1200px) {
+  .page {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}
