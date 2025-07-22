@@ -9,15 +9,25 @@
 
 <head>
 {% include head.html %}
-  <style>
-   /* 让外层容器 #main 和正文 .article-wrap 不再受限 */
-   #main,
-   .article-wrap {
-     max-width: none !important;
-     width: auto !important;
-     margin: 0 20px !important;   /* 两侧留 20px 内边距，防止贴边 */
-   }
- </style>
+<style>
+    /* 1) 让 #main 采用 flex，两列并排 */
+    #main {
+      display: flex !important;
+      flex-wrap: nowrap; /* 保持单行 */
+    }
+    /* 2) 左侧作者信息固定宽度（可根据头像宽度调），不动 */
+    .article-author-top {
+      flex: 0 0 220px !important;  /* 220px 宽；可调 */
+      margin-right: 20px !important;
+    }
+    /* 3) 正文区占满剩余空间 */
+    .article-wrap {
+      flex: 1 1 auto !important;
+      max-width: none !important;
+      width: auto !important;
+    }
+  </style>
+
 
 <script src="https://cdn.counter.dev/script.js" data-id="4c8f7caa-2b55-46cd-a995-2c4633303773" data-utcoffset="8"></script>
 
