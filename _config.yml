@@ -1,9 +1,12 @@
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
+
 defaults:
   - scope:
       path: ""        # 应用于所有页面和文章
       type: "pages"   # 如果你只想改页面（不含 posts），保持 pages；想改 blog，可改为 "posts"
     values:
-      content_max_width: "900px"   # 把 900px 换成你希望的宽度
+      content_max_width: "1200px"   # 把 900px 换成你希望的宽度
 
 title: Naiyu Fang
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
