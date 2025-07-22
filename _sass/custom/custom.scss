@@ -1,26 +1,54 @@
 // _sass/custom/custom.scss
-// 修改最大内容宽度
+
+/* === 全局最大宽度设置 === */
 .page {
-  max-width: 1200px; // 默认是大约 800px，可根据需要调整
+  max-width: 1200px;       // 页面主体最大宽度
+  margin: 0 auto;          // 居中显示
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
+/* 屏幕更大时略增边距 */
 @media (min-width: 1300px) {
   .page {
     padding-left: 2rem;
     padding-right: 2rem;
   }
 }
-/* 针对所有 layout: page 的页面 */
+
+/* === 扩大主区域（正文+侧边栏容器） === */
 body.page #main {
-  max-width: none !important;
-  width: 100% !important;
-  display: flex !important;
-  flex-direction: row;
-  justify-content: flex-start;
-  align-items: flex-start;
-  gap: 2rem; /* 可选，左右栏之间留出间距 */
+  max-width: 1400px;       // 原默认约 800px
   margin: 0 auto;
-  padding: 1rem 2rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+/* === 确保内容容器本身不被 max-width 限制住 === */
+body.page .page__content,
+body.page .article-wrap,
+body.page .page__inner,
+body.page .archive,
+body.page .initial-content {
+  max-width: 100% !important;
+  width: 100%;
+}
+
+/* === 图片右浮动样式（可选）=== */
+img.floatpic {
+  float: right;
+  margin-left: 1.5rem;
+  margin-bottom: 1rem;
+  max-width: 300px;
+}
+
+/* === 如果页面使用作者信息浮动（非必要） === */
+/* 建议你确认 `.article` 和 `.article-author-top` 是你在页面中用到的类 */
+
+body.page .article {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
 }
 
 body.page .article-author-top {
@@ -28,12 +56,7 @@ body.page .article-author-top {
   flex-shrink: 0;
 }
 
-body.page #main > article {
-  flex: 1;
-  width: auto !important;
-  max-width: none !important;
-  float: none !important;
-  margin: 0;
-  padding: 0;
+body.page .article-body {
+  flex-grow: 1;
+  max-width: 100%;
 }
-
