@@ -1,5 +1,6 @@
 ---
 layout: page
+content_max_width: "900px" 
 ---
 
 # About Me
