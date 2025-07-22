@@ -48,7 +48,7 @@ distillation, an unsupervised synthesis method of garment images, and an image s
 ---
 
 ## News and Updates
---**Jul 2025:** I will be joining MMLab at CUHK as a postdoctoral research fellow
+- **Jul 2025:** I will be joining MMLab at CUHK as a postdoctoral research fellow
 - **Aug 2024:** I joint S-Lab officially as a research fellow.
 - **Jun 2024:** I got my PhD degree finally.
 - **Feb 2024:** Recommended as Outstanding Graduates of Zhejiang Province.
