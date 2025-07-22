@@ -8,9 +8,8 @@ layout: page
 
 <br>
 
-  Here is **Naiyu Fang (房乃玉)**. 
-- I was born in 1996 in Weifang, Shandong Province.
-- I am a Research Fellow at [S-Lab](https://www.ntu.edu.sg/s-lab), [Nanyang Technological University](https://www.ntu.edu.sg/), researching with Prof. [Guosheng Lin](https://guosheng.github.io/)
+  Here is **Naiyu Fang (房乃玉)**.
+- I am a Research Fellow at [S-Lab](https://www.ntu.edu.sg/s-lab), [Nanyang Technological University](https://www.ntu.edu.sg/), researching with Prof. [Guosheng Lin](https://guosheng.github.io/).
 - I got my PhD degree at [Zhejiang University](https://www.zju.edu.cn/english/), under the supervision of [Prof. Shuyou Zhang](https://person.zju.edu.cn/en/0092066) and [Prof. Lemiao Qiu](https://person.zju.edu.cn/en/english_my_freetown). Our research Group is affiliated to [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn/english.html) and [the State Key Laboratory of Fluid Power & Mechatronic Systems](http://sklofp.zju.edu.cn/sklen/). 
 - My reserach interest focuses on __Computer Vision__, __Autonomous Driving__, and __Virtual Try-on__.  
 
@@ -49,6 +48,7 @@ distillation, an unsupervised synthesis method of garment images, and an image s
 ---
 
 ## News and Updates
+--**Jul 2025:** I will be joining MMLab at CUHK as a postdoctoral research fellow
 - **Aug 2024:** I joint S-Lab officially as a research fellow.
 - **Jun 2024:** I got my PhD degree finally.
 - **Feb 2024:** Recommended as Outstanding Graduates of Zhejiang Province.
