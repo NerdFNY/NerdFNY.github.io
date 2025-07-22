@@ -22,3 +22,35 @@ body.page .article-wrap {
   max-width: 100%;    /* 内容撑满父容器宽度 */
 }
 
+@media (min-width: 1000px) {
+  /* 1) 让 #main（已经是 flex 容器）两列并排 */
+  body.page #main {
+    display: flex !important;
+    flex-wrap: nowrap !important;
+  }
+
+  /* 2) 左侧作者栏固定宽度 */
+  body.page .article-author-top {
+    flex: 0 0 220px !important;
+    margin-right: 1rem !important;
+  }
+
+  /* 3) 整个 <article>（不是 .article-wrap）填满剩余空间 */
+  body.page #main > article {
+    flex: 1 1 auto !important;
+    float: none !important;     /* 取消模板浮动 */
+    width: auto !important;     /* 覆盖模板的 width:90% */
+    max-width: none !important; /* 解除任何 max-width 限制 */
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  /* 4) 再确保正文容器也不受内部宽度限制 */
+  body.page .article-wrap {
+    max-width: none !important;
+    width: auto !important;
+    float: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+}
