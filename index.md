@@ -9,7 +9,7 @@ layout: page
 <br>
 
   Here is **Naiyu Fang (房乃玉)**.
-- I am a Postdoctoral Fellow at [MMlab](https://mmlab.ie.cuhk.edu.hk/), [CUHK](https://www.cuhk.edu.hk/), researching with Prof. [Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/).
+- I am a Postdoctoral Fellow at [MMLab](https://mmlab.ie.cuhk.edu.hk/), [CUHK](https://www.cuhk.edu.hk/), researching with Prof. [Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/).
 - I was a Research Fellow at [S-Lab](https://www.ntu.edu.sg/s-lab) and [CCDS](https://www.ntu.edu.sg/computing), [NTU](https://www.ntu.edu.sg/), and I was fortunate to work with Prof. [Guosheng Lin](https://guosheng.github.io/).
 - I got my PhD degree at [Zhejiang University](https://www.zju.edu.cn/english/), under the supervision of [Prof. Shuyou Zhang](https://person.zju.edu.cn/en/0092066) and [Prof. Lemiao Qiu](https://person.zju.edu.cn/en/english_my_freetown). Our research Group is affiliated to [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn/english.html) and [the State Key Laboratory of Fluid Power & Mechatronic Systems](http://sklofp.zju.edu.cn/sklen/). 
 - My reserach interest focuses on __Computer Vision__, __Autonomous Driving__, and __Virtual Try-on__.  
