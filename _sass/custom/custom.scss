@@ -1,7 +1,7 @@
 // _sass/custom/custom.scss
 // 修改最大内容宽度
 .page {
-  max-width: 1200px; // 默认是大约 800px，可根据需要调整
+  max-width: 1600px; // 给桌面端正文更多可用宽度
 }
 
 @media (min-width: 1300px) {
@@ -24,7 +24,7 @@ body.page #main {
 }
 
 body.page .article-author-top {
-  width: 220px;
+  width: 130px;
   flex-shrink: 0;
 }
 
@@ -35,5 +35,39 @@ body.page #main > article {
   float: none !important;
   margin: 0;
   padding: 0;
+}
+
+/* Keep the introduction readable beside the portrait on wide screens. */
+@media (min-width: 900px) {
+  body.page #main {
+    gap: 1.25rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+
+  body.page #main > article {
+    min-width: 0;
+    width: auto !important;
+    max-width: none !important;
+    flex: 1 1 auto !important;
+  }
+
+  body.page #main > article .floatpic {
+    width: 290px;
+    max-width: 32%;
+    height: auto;
+    margin: 0 0 1.25rem 2rem;
+  }
+}
+
+@media (max-width: 899px) {
+  body.page #main {
+    display: block !important;
+  }
+
+  body.page .article-author-top {
+    width: auto;
+    margin-bottom: 2rem;
+  }
 }
 
